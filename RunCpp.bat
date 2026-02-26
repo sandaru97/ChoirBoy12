@@ -1,0 +1,1 @@
+g++ ChoirBoy12.cpp -o ChoirBoy12 -lsndfile -lportaudio
